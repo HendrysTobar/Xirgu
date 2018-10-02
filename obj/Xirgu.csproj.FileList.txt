@@ -1,0 +1,9 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\Xirgu.pdb
+obj\Debug\Xirgu.pdb
+bin\Debug\Xirgu.exe
+obj\Debug\Xirgu.exe
+obj\Debug\Xirgu.frmXirgu.resources
+obj\Debug\Xirgu.Properties.Resources.resources
+obj\Debug\Xirgu.csproj.GenerateResource.Cache
+obj\Debug\Xirgu.AcercaDe.resources
